@@ -1,3 +1,4 @@
+# Significance of Fans
 ## Brief history
 The first electric fan was created by *Dr. Schuyler Skaats Wheeler in 1886.* It was a small, two-blade personal desk fan that was DC powered. Made of brass and loved by all who worked inside in the summer, the fan was modern, effective, and dangerous as there was no cage surrounding the blades
 
@@ -37,6 +38,9 @@ Over the decades, fans have evolved into aesthetic decorative pieces for homes a
 
 ## Latest fan
 ![image](https://user-images.githubusercontent.com/97149754/156506832-95295607-e26a-4fad-b163-265b646eb847.png)
+
+## How it's made
+https://www.youtube.com/watch?v=FbHtx0j59VU
 
 ## Common mistakes people make that leads to poor performance of the fan
 
